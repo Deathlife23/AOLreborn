@@ -1,2 +1,2 @@
-# assclub.github.io
-This is a website
+# AOL Reborn
+This is a program that revives AOL dial-up.
