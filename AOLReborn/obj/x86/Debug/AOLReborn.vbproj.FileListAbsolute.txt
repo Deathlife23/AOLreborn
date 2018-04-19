@@ -1,0 +1,12 @@
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.AboutBox1.resources
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.Form1.resources
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.Form2.resources
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.Form3.resources
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.Resources.resources
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.vbproj.GenerateResource.Cache
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\AOLReborn.exe
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\AOLReborn.pdb
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\AOLReborn.xml
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.exe
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.xml
+C:\Users\Marco Forelli\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AOLReborn.pdb
